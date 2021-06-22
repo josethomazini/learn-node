@@ -1,0 +1,12 @@
+{
+  "name": "cross-env",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "cross-env MESSAGE1='hello world' MESSAGE2='again, hello world' node src/index.js"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
