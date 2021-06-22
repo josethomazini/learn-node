@@ -1,0 +1,12 @@
+{
+  "name": "leasot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "find:todos": "leasot src/**/*.js src/**/*.ts src/**/*.jsx src/**/*.tsx"
+  },
+  "devDependencies": {
+    "leasot": "^12.0.0"
+  }
+}
