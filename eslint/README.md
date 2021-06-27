@@ -22,7 +22,7 @@ To list problems:
 yarn run lint:js
 ```
 
-To try to fix problems, and list any unresolved problems:
+To try to fix problems, and list any unresolved problem:
 
 ```
 yarn run lint:js:fix

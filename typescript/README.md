@@ -49,5 +49,5 @@ yarn run start
 ```
 
 - The reason I've created the ts:check script was for an eventual babel
-  integration, where I use typescript only to check types, while babel can
-  transpile everything.
+  integration, where I could use typescript only to check types, while babel
+  could transpile everything.

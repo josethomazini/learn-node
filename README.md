@@ -22,7 +22,7 @@ Add to the root's package.json the following script:
 yarn add -D -W husky
 ```
 
-After the install a folder names .husky will be created.
+After the install a folder named .husky will be created.
 
 ## commitizen + commitlint
 
